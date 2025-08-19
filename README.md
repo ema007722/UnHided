@@ -1,4 +1,4 @@
-# UnHided
+# CoSENZA
 ## Env Vars
 ```
 API_PASSWORD = Yourpassword
@@ -15,3 +15,4 @@ TRANSPORT_ROUTES = {
     }
 }
 ```
+
